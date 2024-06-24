@@ -44,5 +44,3 @@ exports.comment_create = asyncHandler(async (req, res, next) => {
     return res.json(comment)
 })
 
-
-
